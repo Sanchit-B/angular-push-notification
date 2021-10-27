@@ -2,6 +2,15 @@
 
 https://malcoded.com/posts/angular-push-notifications/
 
+## packages Installed
+
+On client side: 
+npm i @angular/pwa
+npm i web-push
+
+on server side:
+npm i web-push
+
 # AngularPushNotifications
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
